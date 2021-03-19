@@ -469,7 +469,7 @@ input.ct-red + span + label + span.switch-right {
 
 .navbar .navbar-nav > li > a.btn-danger, .btn-danger {
   border-color: #EB5E28;
-  color: #EB5E28; }
+  color: #f2c80f; }
   .navbar .navbar-nav > li > a.btn-danger:hover, .navbar .navbar-nav > li > a.btn-danger:focus, .navbar .navbar-nav > li > a.btn-danger:active, .navbar .navbar-nav > li > a.btn-danger.active, .open > .navbar .navbar-nav > li > a.btn-danger.dropdown-toggle, .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open > .btn-danger.dropdown-toggle {
     background-color: #EB5E28;
     color: rgba(255, 255, 255, 0.7);
@@ -492,7 +492,7 @@ input.ct-red + span + label + span.switch-right {
       border-top-color: #FFFFFF; }
   .navbar .navbar-nav > li > a.btn-danger.btn-simple:hover, .navbar .navbar-nav > li > a.btn-danger.btn-simple:focus, .navbar .navbar-nav > li > a.btn-danger.btn-simple:active, .navbar .navbar-nav > li > a.btn-danger.btn-simple.active, .open > .navbar .navbar-nav > li > a.btn-danger.btn-simple.dropdown-toggle, .btn-danger.btn-simple:hover, .btn-danger.btn-simple:focus, .btn-danger.btn-simple:active, .btn-danger.btn-simple.active, .open > .btn-danger.btn-simple.dropdown-toggle {
     background-color: transparent;
-    color: #B33C12; }
+    color: #FFFFFF; }
   .navbar .navbar-nav > li > a.btn-danger.btn-simple .caret, .btn-danger.btn-simple .caret {
     border-top-color: #FFFFFF; }
   .navbar .navbar-nav > li > a.btn-danger .caret, .btn-danger .caret {
